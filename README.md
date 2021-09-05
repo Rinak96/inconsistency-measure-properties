@@ -1,5 +1,7 @@
 # Inconsistency-measurer
 
+[This code belongs to our paper "Properties of Inconsistency Measures for Databases"](https://arxiv.org/abs/1904.06492)
+
 This repository contains implementations of six database inconsistency measures.
 * The dratic measure I_d - 1 if the database is inconsistent and 0 otherwise.
 * The measure I_MI - the number of minimal inconsistent subsets.
