@@ -25,10 +25,11 @@ Install the latest version of Nodejs:
     3. ```bash
         nvm install v14.12.0
         ```
-    Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ipywidgets
     4. ```bash
         pip install ipywidgets
         ```
+        Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ipywidgets
+        
     5. ```bash
         jupyter nbextension enable --py widgetsnbextension
         ```
